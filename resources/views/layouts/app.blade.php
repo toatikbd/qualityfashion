@@ -36,9 +36,9 @@
 <body>
     <!--page start-->
     <div class="page">
-        <div id="preloader" class="blobs-wrapper">
+        {{-- <div id="preloader" class="blobs-wrapper">
             <div class="ttm-bgcolor-skincolor loader-blob"></div>
-        </div>
+        </div> --}}
         <!--header start-->
         @include('layouts.partial.header')
         <!--header end-->

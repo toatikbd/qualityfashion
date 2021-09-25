@@ -55,7 +55,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-center">
-                        <span class="cpy-text">Copyright © 2021 <a href="#" class="ttm-textcolor-skincolor font-weight-500">Quality Fashion BD </a> All rights reserved.</span>
+                        <span class="cpy-text">Copyright © 2021 Quality Fashion BD All rights reserved. Develop by <a href="https://eshosting.com/" class="ttm-textcolor-skincolor font-weight-500">ESHosting Technology</a></span>
                     </div>
                 </div>
             </div>
